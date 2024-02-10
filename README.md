@@ -31,4 +31,4 @@ A big shoutout to all contributors and libraries that have contributed to the de
 
 📧 **Contact**
 
-For inquiries or suggestions, feel free to reach out to devallabhaskarganesh@gmail.com.
+For inquiries or suggestions, feel free to reach out to adithyanagendragummadi2004@gmail.com.
